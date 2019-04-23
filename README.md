@@ -13,7 +13,7 @@ Compare-Aggregate Model源于2017年的一篇paper，这个模型是一个强力
 
 |Model|Dropout|Parameters|Epoch|MAP|MRR|DATE|  
 |-|-|-|-|-|-|-|
-|Demo1|0.5|4562365|100|1|1|2019.4.23|
+|Demo1|0.5|4562365|100|0.6413|0.6417|2019.4.23|
 
 
 ### 实验
