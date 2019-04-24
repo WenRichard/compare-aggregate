@@ -11,10 +11,10 @@ Compare-Aggregate Model源于2017年的一篇paper，这个模型是一个强力
   
 ### 结果总览
 实验结果以表格的形式呈现  
-pt --> pointwise
-lt --> listwise
-ps --> paperSet
-ms --> mySet
+pt --> pointwise  
+lt --> listwise  
+ps --> paperSet  
+ms --> mySet  
 
 |Model|set|Parameters|Epoch|MAP|MRR|DATE|Datatype|备注|  
 |-|-|-|-|-|-|-|-|-|
