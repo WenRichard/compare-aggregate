@@ -1,4 +1,4 @@
-# compare-aggreate
+# compare-aggregate
 ## 复现《A Compare-Aggregate Model for Matching Text Sequences》论文
 [**原作代码**](https://github.com/shuohangwang/SeqMatchSeq/blob/master/wikiqa/compAggWikiqa.lua)
 ### 引言
