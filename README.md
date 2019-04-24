@@ -48,16 +48,16 @@ ms --> mySet
 |5|25|100|0.001|300|15|0.5|/|
 
 - **Demo1**  
-reference:[seq_match_seq](https://github.com/WenRichard/Question_Answering_Models/tree/master/cQA/seq_match_seq)
+reference: [seq_match_seq](https://github.com/WenRichard/Question_Answering_Models/tree/master/cQA/seq_match_seq)
 
 - **Demo2**  
 分为model和model2，区别在于sim matrix的不同实现,Demo2-1,Demo2-3是model的实现，Demo2-2是model2的实现  
 
 - **Demo3**  
-reference:[compareAggregate](https://github.com/UKPLab/aaai2019-coala-cqa-answer-selection/blob/c4fcf77373cd86a9a043c38ae9ab0dc1882a6b17/experiment/qa_pairwise/model/__init__.py)  
+reference: [compareAggregate](https://github.com/UKPLab/aaai2019-coala-cqa-answer-selection/blob/c4fcf77373cd86a9a043c38ae9ab0dc1882a6b17/experiment/qa_pairwise/model/__init__.py)  
 Demo3算是比较细节的一个模型了，模型的结构很清楚，我也加了学习率动态变化的效果，确实，加了之后，模型更加鲁棒了  
 
 - **Demo4**  
-reference:[PMGA](https://github.com/laox1ao/PMGA)  
+reference: [PMGA](https://github.com/laox1ao/PMGA)  
 该repo是将dynamic-clip-attention实现的keras版本改下成tensorflow版本的，基本上还原了原作的模型结构。  
 
