@@ -37,7 +37,7 @@ ms --> mySet
 
 |batchSize|qLen|aLen|lr|hiddenDim|listwise|dropout|备注|  
 |-|-|-|-|-|-|-|-|
-|5|25|100|0.001|300|15|0.5|句子长度，listwise，dropout自己设定|
+|5|25|100|0.001|300|15|0.5|/|
 
 - Demo1    
 
